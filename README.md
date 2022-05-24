@@ -12,5 +12,4 @@ Rules:
 4. The player can choose from a list of powerups to assist their endeavors
 5. See the rules tab in the game for more details
 
-Note: this game was created using the BlueJ IDE. It is helpful to use this IDE in running the game.
-
+Note: this game was created using the BlueJ IDE. It is helpful to use this IDE in running the game by using the package.bluej file
